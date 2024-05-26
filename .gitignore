@@ -87,6 +87,8 @@
 !*.bmm
 !*.xmp
 
-LongTeng-GPU.cache/**
-LongTeng-GPU.runs/**
+LongTeng-EntertainmentSystem.cache/**
+LongTeng-EntertainmentSystem.ip_user_files/**
+LongTeng-EntertainmentSystem.runs/**
+LongTeng-EntertainmentSystem.gen/**
 
